@@ -20,7 +20,7 @@ How to compile
 -------------------------------
 * In order to  compile this application, you must use [Apache's Byte Code Engineering Library](http://commons.apache.org/bcel/). I have included the [source](https://github.com/Hu6/VestaClient/tree/master/src) and [jar file](https://github.com/Hu6/VestaClient/blob/master/VestaClient0.02.jar?raw=true) that you need to import into your workspace.
 
-If using eclipse, right click on your java project and selecte Properties->Java Build Path->Libraries->Add External Jars
+If using eclipse, right click on your java project and select Properties->Java Build Path->Libraries->Add External Jars and choose the bcel .jar file.
 
 ==========
 

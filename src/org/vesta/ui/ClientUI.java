@@ -33,7 +33,7 @@ public class ClientUI extends JFrame implements WindowListener {
         super();
         addWindowListener(this);
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
-        setTitle("VestaClient for RS2 by Jimmy5410 -- Edited for Oldscape by Longbottom/!Hu6");
+        setTitle("VestaClient for RS2 by John Duncan");
         URL imageURL = getClass().getResource("icon.png");
         setIconImage(new ImageIcon(imageURL).getImage());
         try {
