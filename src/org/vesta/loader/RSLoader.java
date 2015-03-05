@@ -83,7 +83,7 @@ public class RSLoader {
 		} else {
 			prefix="world";
 			if (!rs4.exists()) {
-				URL website = new URL("http://" + prefix + world + ".runescape.com/gamepack8GkJ13TpYEY1cPbVYa5/Ru7mnQT+BM0B_9629289.jar!/");
+				URL website = new URL("http://" + prefix + world + ".runescape.com/gamepackZfYsp74TWDz8mKpTh1U8haRDueIkIDpF_6381744.jar!/");
 				ReadableByteChannel rbc = Channels.newChannel(website.openStream());
 				FileOutputStream fos = new FileOutputStream("RS4.jar");
 				fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);

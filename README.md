@@ -8,7 +8,7 @@ Features
 Download
 -------------------------------
 
-Get it [here](https://github.com/Hu6/VestaClient/raw/master/VestaClient.jar). The original source and client can be found [here](http://code.google.com/p/vestaclient/). Many thanks to jimmy5410 for the original client.
+Get it [here](https://github.com/JohnDDuncanIII/VestaClient/releases/latest). The original source and client can be found [here](http://code.google.com/p/vestaclient/). Many thanks to jimmy5410 for the original client.
 
 Screenshots
 -------------------------------
@@ -20,7 +20,7 @@ How to compile
 -------------------------------
 * In order to  compile this application, you must use [Apache's Byte Code Engineering Library](http://commons.apache.org/bcel/). I have included the [source](https://github.com/Hu6/VestaClient/tree/master/src) and [jar file](https://github.com/Hu6/VestaClient/blob/master/VestaClient0.02.jar?raw=true) that you need to import into your workspace.
 
-If using eclipse, right click on your java project and select Properties->Java Build Path->Libraries->Add External Jars and choose the bcel .jar file.
+If using eclipse, right click on your java project and selecte Properties->Java Build Path->Libraries->Add External Jars
 
 ==========
 
